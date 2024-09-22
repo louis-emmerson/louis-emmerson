@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate Junior Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=louis-emmerson" alt="louis-emmerson" /></a> </p>
+- 🔭 Software Development Bootcamp in JavaScript **@ Northcoders**
 
 - 📫 How to reach me **louis.emmerson2000@gmail.com**
 
