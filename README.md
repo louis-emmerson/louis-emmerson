@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **louis.emmerson2000@gmail.com**
 
-- ⚡ Fun fact **I have a classic yellow VW Beetle 🚙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
