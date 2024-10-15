@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate Junior Software Developer</h3>
 
-- 🔭 Software Development Bootcamp in JavaScript **@ Northcoders**
+-  🔭 Software Development Bootcamp in JavaScript **@ Northcoders**
 
-- 📫 How to reach me **louis.emmerson2000@gmail.com**
+-  📫 How to reach me **louis.emmerson2000@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
