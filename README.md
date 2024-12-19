@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">A passionate Junior Software Developer</h3>
+👋 Hi, I'm Louis Emmerson, a passionate Junior Software Developer specializing in React, Node.js, and JavaScript. I thrive on building user-friendly, dynamic web applications and solving technical challenges.
 
--  🔭 Software Development Bootcamp in JavaScript **@ Northcoders**
+💼 Open to Junior Developer Roles – Eager to bring my expertise in building scalable frontends and RESTful APIs to a dynamic team.
 
+✨ Key Skills: React, JavaScript, Express.js, PostgreSQL, Supabase, and Git. Experienced in Agile workflows and testing with Jest.
 -  📫 How to reach me **louis.emmerson2000@gmail.com**
 
 -  👨‍💻 Check out my latest project –<a href="https://nc-news.louis-emmerson.dev/" target="_blank">a news website built with React!</a>
