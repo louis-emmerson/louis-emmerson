@@ -20,8 +20,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louis-emmerson&show_icons=true&locale=en&layout=compact" alt="louis-emmerson" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louis-emmerson&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louis-emmerson&show_icons=true&locale=en" alt="louis-emmerson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louis-emmerson&" alt="louis-emmerson" /></p>
