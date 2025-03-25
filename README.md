@@ -1,12 +1,9 @@
 👋 Hi, I'm Louis Emmerson, a passionate Junior Software Developer specializing in React, Node.js, and JavaScript. I thrive on building user-friendly, dynamic web applications and solving technical challenges.
 
 
-✨ Key Skills: React, JavaScript, Express.js, PostgreSQL, Supabase, and Git. Experienced in Agile workflows and testing with Jest.
 -  📫 How to reach me **louis.emmerson2000@gmail.com**
 
--  👨‍💻 Check out my latest project –<a href="https://nc-news.louis-emmerson.dev/" target="_blank">a news website built with React!</a>
 
--  👨‍💻 Check out my latest backend project –<a href="https://api-nc-news.louis-emmerson.dev/api" target="_blank">a RESTful news API!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
