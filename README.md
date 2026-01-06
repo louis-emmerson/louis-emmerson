@@ -1,7 +1,4 @@
-👋 Hi, I'm Louis Emmerson, a passionate Junior Software Developer specializing in React, Node.js, and JavaScript. I thrive on building user-friendly, dynamic web applications and solving technical challenges.
 
-
--  📫 How to reach me **louis.emmerson2000@gmail.com**
 
 
 
